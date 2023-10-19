@@ -1,4 +1,4 @@
-package com.coforge.tests.rough;
+package com.bagal.tests.rough;
 
 import org.testng.annotations.Test;
 

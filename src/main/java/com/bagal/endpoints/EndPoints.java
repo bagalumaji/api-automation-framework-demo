@@ -1,4 +1,4 @@
-package com.coforge.endpoints;
+package com.bagal.endpoints;
 
 import lombok.Getter;
 

@@ -1,4 +1,4 @@
-package com.coforge.constants;
+package com.bagal.constants;
 
 import lombok.Getter;
 import lombok.Setter;

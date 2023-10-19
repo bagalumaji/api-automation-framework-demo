@@ -1,4 +1,4 @@
-package com.coforge.report;
+package com.bagal.report;
 
 
 import com.aventstack.extentreports.ExtentTest;

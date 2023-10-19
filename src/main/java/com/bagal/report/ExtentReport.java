@@ -1,11 +1,11 @@
-package com.coforge.report;
+package com.bagal.report;
 
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
-import com.coforge.constants.FrameworkConstants;
-import com.coforge.utils.EnvironmentUtil;
+import com.bagal.constants.FrameworkConstants;
+import com.bagal.utils.EnvironmentUtil;
 
 
 import java.util.Objects;
